@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+psycopg[binary]
+pandas
+langchain==1.4.9
+langchain-ollama==1.1.0
